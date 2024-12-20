@@ -7,12 +7,12 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "VAJIRA-MD=OQkGCZzA#wRy-iRWXigbx_lNCFL7H_wvXUGrG8oPa7uGQ87LWD-8",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=OQkGCZzA#wRy-iRWXigbx_lNCFL7H_wvXUGrG8oPa7uGQ87LWD-8"
         },
     "OWNER_NUMBER": {
-            "description": "Type Your Number Here",
+            "description": "94743454928",
             "required": true,
             "value": ""
         }
